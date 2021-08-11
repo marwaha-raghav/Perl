@@ -1,3 +1,7 @@
-#Perl Basics to Advanced
+# Perl Basics to Advanced
 
-THis repo contains othe jounry of learning PERL.
+This repo contains othe journey of learning PERL.
+
+## Sub Modules
+
+- To be added.
